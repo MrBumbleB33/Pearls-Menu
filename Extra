@@ -1,0 +1,137 @@
+//	// Combo Items:
+//	"Combination Items:": {
+//		header: true,
+//	},
+//	//"Rimjob Combo": {
+//	//	price: 270,
+//	//	items: ["Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob"],
+//	//},
+//	// Variable combos:
+//	"Running Man": {
+//		price: 245,
+//		emoji: '🏃',
+//		items: ["Fries", "Fries", "Rimjob", "Rimjob", "Soda"],
+//	},
+//	"Sugar Rush": {
+//		price: 123,
+//		emoji: '🍬',
+//		items: ["Soda", "Cream Pie", "Rimjob"],
+//	},
+//	"Sweet Tooth": {
+//		price: 162,
+//		emoji: '🧂',
+//		items: ["Milkshake", "Milkshake", "Cream Pie", "Cream Pie"],
+//	},
+//	"Salty Seaman": {
+//		price: 200,
+//		emoji: '🦷',
+//		items: ["Fries", "Fries", "Water", "Water"],
+//	},
+//	"Glory to the burger": {
+//		price: 350,
+//		emoji: '👑',
+//		items: ["Katsu Sando", "Om-Nom-Rice", "Torpedo", "Bleeder", "Meat Free"],
+//	},
+//	"Soyboy": {
+//		price: 210,
+//		emoji: '😭',
+//		items: ["Meat Free", "Fries", "Water", "Water",],
+//	},
+//	// Sunday
+//	"Buck Fever": {
+//		price: 163,
+//		emoji: '🦌',
+//		items: ["Bleeder", "Milkshake", "Rimjob"],
+//	},
+//	"The Big Catch": {
+//		price: 176,
+//		emoji: '🎣',
+//		items: ["Cream Pie", "Cream Pie", "Fries", "Fries"],
+//	},
+//	// Monday
+//	"Royal Flush": {
+//		price: 226,
+//		emoji: '🚽',
+//		items: ["Fries", "Cream Pie", "Rimjob", "Water", "Milkshake"],
+//	},
+//	"Murdershake": {
+//		price: 278,
+//		emoji: '🤑',
+//		items: ["Fries", "Fries", "Rimjob", "Milkshake", "Katsu Sando"],
+//	},
+//	"The Miller Special": {
+//		price: 516,
+//		emoji: '👮',
+//		items: ["Katsu Sando", "Katsu Sando", "Milkshake", "Milkshake", "Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob"],
+//	},
+//	"La comida blanca": {
+//		price: 1435,
+//		emoji: '👩‍🦳',
+//		items: ["Katsu Sando", "Katsu Sando", "Katsu Sando", "Katsu Sando", "Katsu Sando", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob", "Rimjob", "Milkshake", "Milkshake", "Milkshake", "Milkshake", "Milkshake"],
+//	},
+//	"High Roller": {
+//		price: 685,
+//		emoji: '🤑',
+//		items: ["Om-Nom-Rice", "Om-Nom-Rice", "Soda"],
+//	},
+//	// Tuesday
+//	"Cream Getaway": {
+//		price: 191,
+//		emoji: '🏁',
+//		items: ["Fries", "Fries", "Cream Pie", "Milkshake"],
+//	},
+//	"Burger Booster": {
+//		price: 105,
+//		emoji: '⛽',
+//		items: ["Torpedo", "Torpedo", "Rimjob", "Soda"],
+//	},
+//	// Wednesday
+//	"Salad Dodger": {
+//		price: 230,
+//		emoji: '🥗',
+//		items: ["Soda", "Soda", "Rimjob", "Rimjob"],
+//	},
+//	"Vegan Slaughter": {
+//		price: 201,
+//		emoji: '🥬',
+//		items: ["Meat Free", "Fries", "Milkshake", "Cream Pie"],
+//	},
+//	// Thursday
+//	"Ice Screamer": {
+//		price: 136,
+//		emoji: '🍦',
+//		items: ["Cream Pie", "Fries", "Milkshake"],
+//	},
+//	"Brain Bleeder": {
+//		price: 230,
+//		emoji: '🥶',
+//		items: ["Bleeder", "Bleeder", "Rimjob", "Rimjob"],
+//	},
+//	// Friday
+//	"A Taste of Greece": {
+//		price: 160,
+//		emoji: '🌺',
+//		items: ["Torpedo", "Water", "Water"],
+//	},
+//	"Jugular Jungle": {
+//		price: 261,
+//		emoji: '🌴',
+//		items: ["Fries", "Fries", "Fries", "Milkshake", "Milkshake"],
+//	},
+//	// Saturday
+//	"A Salt & Battery": {
+//		price: 210,
+//		emoji: '🧂',
+//		items: ["Fries", "Fries", "Fries", "Soda"],
+//	},
+//	//"Lime Served": {
+//	//	price: 184,
+//	//	emoji: '🕑',
+//	//	items: ["Om-Nom-Rice", "Cream Pie", "Cream Pie", "Milkshake"],
+//	//},
+//	"Baz Special": {
+//		price: 265,
+//		max: 2,
+//		emoji: '🙂',
+//		items: ["Fries", "Fries", "Fries", "Fries", "Soda"],
+//	},
