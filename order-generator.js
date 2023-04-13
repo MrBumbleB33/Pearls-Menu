@@ -164,7 +164,7 @@ function formatItems(items) {
 	INDIVIDUAL_ITEMS.forEach(item => {
 		let occ = getOccurrence(items, item);
 		let imageName = item.toLowerCase().replace(' ', '_');
-		let imageIcon = `<img src="./images/${imageName}.png" title="${occ}x ${item}" width="30" height="30"> `
+		let imageIcon = `<img src="images/${imageName}.png" title="${occ}x ${item}" width="30" height="30"> `
 		if (occ > 0) newArray.push(`- ${occ}x ${imageIcon}${item}`);
 	});
 
@@ -382,7 +382,7 @@ function getIcon(item) {
 		icon = Menu[item].emoji;
 	} else {
 		let fileName = `${item.toLowerCase().replace(' ', '_')}.png`;
-		icon = `<img src="./images/${fileName}" width="20" height="20">`;
+		icon = `<img src="images/${fileName}" width="20" height="20">`;
 	}
 	return icon;
 }
