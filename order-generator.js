@@ -216,7 +216,7 @@ function editQuantity(item) {
 
 function getEmptyOrder() {
 	let buffer = [];
-	buffer.push('<img src="images/logo.png" width="45%">');
+	buffer.push('<img src="images/pearls.png" width="45%">');
 	buffer.push("");
 	buffer.push("<strong>ITEMS ORDERED:</strong>");
 	buffer.push("");
@@ -243,7 +243,7 @@ function getDiscount() {
 
 function report() {
 	let buffer = [];
-	buffer.push('<img src="images/logo.png" width="45%">');
+	buffer.push('<img src="images/pearls.png" width="45%">');
 	buffer.push("");
 	let curDarkmode = document.getElementById('darkmode').checked;
 	if (curDarkmode) {
