@@ -96,7 +96,7 @@ const Menu = {
 	  items: ["Blueberryminimocktail"],
 	},
   	"StrawberryOrangeSoda": {
-	 price: 150,
+	 price: 200,
 	 lastItem: false,
 	 items: ["StrawberryOrangeSoda"],
 	},
