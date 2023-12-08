@@ -11,14 +11,17 @@ const Settings = {
 const Menu = {
 
 //	// Burger Meals:
-	"Mains:": {
-		header: true,
-	},
+"Deals:": {
+	header: true,
+},
 	"Meal Deal": {
 		fileRenameException: true,
 		price: 900,
 		noDiscount: false,
 		items: ["Meal Deal"],
+},
+"Mains:": {
+		header: true,
 	},
 	"Seafood Boil": {
 		price: 450,
