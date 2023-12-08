@@ -40,13 +40,21 @@ const Menu = {
 	"Sides:": {
 		header: true,
 	},
-	"Rice Balls": {
-		price: 250,
-		items: ["Rice Balls"],
+	"Cheddar Biscuits": {
+		price: 300,
+		items: ["Cheddar Biscuits"],
 	},
-	"Noodle Soup": {
+	"Hush Puppies": {
 		price: 250,
-		items: ["Noodle Soup"],
+		items: ["Hush Puppies"],
+	},
+	"Loaded Tator Tots": {
+		price: 250,
+		items: ["Loaded Tator Tots"],
+	},
+	"Lobester Roll": {
+		price: 250,
+		items: ["Lobester Roll"],
 	},
    "Desserts:": {
 	header: true,
@@ -111,8 +119,8 @@ const Menu = {
 	 },
  }
 const INDIVIDUAL_ITEMS = [
-	"Meal Deal", "Katsu Sando", "Om-Nom-Rice", "Hamburg Steak", "Doki-Doki-Pancakes", "Rice Balls", "Kira-Kira-Curry",
-	"Noodle Soup", "Purrfect Parfait", "Strawberry Shortcake", "Mochi-Ice-Cream", "Hot Chocolate", "Motcha Coffee", "Soju",
+	"Surf N Turf", "Lobster M&C", "Salmon Chowder", "Burbon Chicken", 
+	"Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Purrfect Parfait", "Strawberry Shortcake", "Mochi-Ice-Cream", "Hot Chocolate", "Motcha Coffee", "Soju",
 	"Blueberry-Booba-Tea", "Strawberry-Booba-Tea","Orange-Booba-Tea"
 ];
 
