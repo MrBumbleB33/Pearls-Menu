@@ -135,7 +135,7 @@ const discounts = {
 //		percent: .50,
 //		desc: 'Pearls Employees (<font color="red">ONLY</font>)(50% off)',
 //	},
-
+//};
 function getOccurrence(array, value) {
 	return array.filter((v) => (v === value)).length;
 }
