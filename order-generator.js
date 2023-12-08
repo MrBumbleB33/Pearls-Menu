@@ -45,22 +45,22 @@ const Menu = {
 		items: ["Cheddar Biscuits"],
 	},
 	"Hush Puppies": {
-		price: 250,
+		price: 300,
 		items: ["Hush Puppies"],
 	},
 	"Loaded Tator Tots": {
-		price: 250,
+		price: 300,
 		items: ["Loaded Tator Tots"],
 	},
 	"Lobester Roll": {
-		price: 250,
+		price: 300,
 		items: ["Lobester Roll"],
 	},
 	// Derssert Items:
 "Desserts:": {
 	header: true,
 },
-	"Dried Oreos": {
+	"Fried Oreos": {
 	   price: 200,
 	   noDiscount: false,
 	   lastItem: false,
@@ -82,46 +82,34 @@ const Menu = {
 "Drinks:": {
 		header: true,
 	},
-	"Hot Chocolate": {
-		price: 150,
+	"Orange Julius": {
+		price: 200,
 		noDiscount: false,
 		lastItem: false,
-		items: ["Hot Chocolate"],
+		items: ["Orange Julius"],
 	},
-	"Motcha Coffee": {
-		price: 150,
+	"Straw Mango Paradise": {
+		price: 200,
 		noDiscount: false,
 		lastItem: false,
-		items: ["Motcha Coffee"],
+		items: ["Straw Mango Paradise"],
 	   },
-   "Soju": {
-	  price: 150,
+   "Blueberry mini mocktail": {
+	  price: 200,
 	  noDiscount: false,
 	  lastItem: false,
-	  items: ["Soju"],
+	  items: ["Blueberry mini mocktail"],
 	 },
-  "Blueberry-Booba-Tea": {
+  "Strawberry Orange Soda": {
 	 price: 150,
 	 noDiscount: false,
 	 lastItem: false,
-	 items: ["Blueberry-Booba-Tea"],
+	 items: ["Strawberry Orange Soda"],
 	},
-	"Strawberry-Booba-Tea": {
-		price: 150,
-		noDiscount: false,
-		lastItem: false,
-		items: ["Strawberry-Booba-Tea"],
-	   },
-   "Orange-Booba-Tea": {
-	  price: 150,
-	  noDiscount: false,
-	  lastItem: false,
-	  items: ["Orange-Booba-Tea"],
-	 },
  }
 const INDIVIDUAL_ITEMS = [
 	"Surf N Turf", "Lobster M&C", "Salmon Chowder", "Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Dried Oreos", "Banna Split", "Caramel Apple Pie", 
-	"Hot Chocolate", "Motcha Coffee", "Soju","Blueberry-Booba-Tea", "Strawberry-Booba-Tea","Orange-Booba-Tea"
+	"Orange Julius", "Straw Mango Paradise", "Blueberry mini mocktail","Strawberry Orange Soda"
 ];
 
 const buttons = {
