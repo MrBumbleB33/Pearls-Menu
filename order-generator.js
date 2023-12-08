@@ -111,7 +111,7 @@ const Menu = {
 	},
  }
 const INDIVIDUAL_ITEMS = [
-	"Surf N Turf", "Lobster M&C", "Salmon Chowder", "Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Dried Oreos", "Banna Split", "Caramel Apple Pie", 
+	"Surf N Turf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Dried Oreos", "Banna Split", "Caramel Apple Pie", 
 	"Orange Julius", "Straw Mango Paradise", "Blueberry mini mocktail","Strawberry Orange Soda"
 ];
 
