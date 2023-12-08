@@ -62,11 +62,11 @@ const Menu = {
 	   price: 200,
 	   items: ["Fried Oreos"],
    },
-   "Banna Split": {
+   "Banana Split": {
 	  price: 200,
-	  items: ["Banna Split"],
+	  items: ["Banana Split"],
   },
-  "Caramel Apple Pie": {
+  "CaramelApplePie": {
 	 price: 200,
 	 items: ["CaramelApplePie"],
 	},
@@ -79,17 +79,17 @@ const Menu = {
 		lastItem: false,
 		items: ["Orange Julius"],
 	},
-	"Straw Mango Paradise": {
+	"StrawMangoParadise": {
 		price: 200,
 		lastItem: false,
 		items: ["StrawMangoParadise"],
 	},
-   "Blueberry mini mocktail": {
+   "Blueberryminimocktail": {
 	  price: 200,
 	  lastItem: false,
 	  items: ["Blueberryminimocktail"],
 	},
-  	"Strawberry Orange Soda": {
+  	"StrawberryOrangeSoda": {
 	 price: 150,
 	 lastItem: false,
 	 items: ["StrawberryOrangeSoda"],
@@ -99,7 +99,7 @@ const Menu = {
 	},
  }
 const INDIVIDUAL_ITEMS = [
-	"Seafood Boil","SurfNTurf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","LoadedTatorTots", "Fried Oreos", "Banna Split", "CaramelApplePie", 
+	"Seafood Boil","SurfNTurf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","LoadedTatorTots", "Fried Oreos", "Banana Split", "CaramelApplePie", 
 	"Orange Julius", "StrawMangoParadise", "Blueberryminimocktail","StrawberryOrangeSoda"
 ];
 
