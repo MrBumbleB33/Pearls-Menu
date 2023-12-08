@@ -119,9 +119,8 @@ const Menu = {
 	 },
  }
 const INDIVIDUAL_ITEMS = [
-	"Surf N Turf", "Lobster M&C", "Salmon Chowder", "Burbon Chicken", 
-	"Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Purrfect Parfait", "Strawberry Shortcake", "Mochi-Ice-Cream", "Hot Chocolate", "Motcha Coffee", "Soju",
-	"Blueberry-Booba-Tea", "Strawberry-Booba-Tea","Orange-Booba-Tea"
+	"Surf N Turf", "Lobster M&C", "Salmon Chowder", "Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Purrfect Parfait", "Strawberry Shortcake", "Mochi-Ice-Cream", 
+	"Hot Chocolate", "Motcha Coffee", "Soju","Blueberry-Booba-Tea", "Strawberry-Booba-Tea","Orange-Booba-Tea"
 ];
 
 const buttons = {
