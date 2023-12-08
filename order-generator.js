@@ -18,9 +18,9 @@ const Menu = {
 		price: 450,
 		items: ["Seafood Boil"],
 	},
-	"Surf N Turf": {
+	"SurfNTurf": {
 		price: 400,
-		items: ["Surf N Turf"],
+		items: ["SurfNTurf"],
 	},
 	"Lobster M&C": {
 		price:400,
@@ -99,7 +99,7 @@ const Menu = {
 	},
  }
 const INDIVIDUAL_ITEMS = [
-	"Seafood Boil","Surf N Turf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Fried Oreos", "Banna Split", "Caramel Apple Pie", 
+	"Seafood Boil","SurfNTurf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Fried Oreos", "Banna Split", "Caramel Apple Pie", 
 	"Orange Julius", "Straw Mango Paradise", "Blueberry mini mocktail","Strawberry Orange Soda"
 ];
 
