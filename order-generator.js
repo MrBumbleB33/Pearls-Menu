@@ -107,16 +107,7 @@ const Menu = {
 	 items: ["Strawberry Orange Soda"],
 	},
 	"": {
-		price: 0,
-		noDiscount: false,
-		lastItem: false,
-		items: [""],
-	},
-	"": {
-		price: 0,
-		noDiscount: false,
-		lastItem: false,
-		items: [""],
+		header: true,
 	},
  }
 const INDIVIDUAL_ITEMS = [
