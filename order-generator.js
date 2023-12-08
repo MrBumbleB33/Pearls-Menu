@@ -144,7 +144,7 @@ const discounts = {
 	},
 	"blackout": {
 		percent: .50,
-		desc: 'UwU Employees (<font color="red">ONLY</font>)(50% off)',
+		desc: 'Pearls Employees (<font color="red">ONLY</font>)(50% off)',
 	},
 };
 
