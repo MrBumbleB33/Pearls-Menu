@@ -93,18 +93,30 @@ const Menu = {
 		noDiscount: false,
 		lastItem: false,
 		items: ["Straw Mango Paradise"],
-	   },
+	},
    "Blueberry mini mocktail": {
 	  price: 200,
 	  noDiscount: false,
 	  lastItem: false,
 	  items: ["Blueberry mini mocktail"],
-	 },
-  "Strawberry Orange Soda": {
+	},
+  	"Strawberry Orange Soda": {
 	 price: 150,
 	 noDiscount: false,
 	 lastItem: false,
 	 items: ["Strawberry Orange Soda"],
+	},
+	"": {
+		price: 0,
+		noDiscount: false,
+		lastItem: false,
+		items: [""],
+	},
+	"": {
+		price: 0,
+		noDiscount: false,
+		lastItem: false,
+		items: [""],
 	},
  }
 const INDIVIDUAL_ITEMS = [
