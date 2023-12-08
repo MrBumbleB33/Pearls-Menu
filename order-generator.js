@@ -46,9 +46,9 @@ const Menu = {
 		price: 300,
 		items: ["Hush Puppies"],
 	},
-	"Loaded Tator Tots": {
+	"LoadedTatorTots": {
 		price: 300,
-		items: ["Loaded Tator Tots"],
+		items: ["LoadedTatorTots"],
 	},
 	"Lobester Roll": {
 		price: 300,
@@ -68,7 +68,7 @@ const Menu = {
   },
   "Caramel Apple Pie": {
 	 price: 200,
-	 items: ["Caramel Apple Pie"],
+	 items: ["CaramelApplePie"],
 	},
 	// Drinks Items:
 "Drinks:": {
@@ -82,25 +82,25 @@ const Menu = {
 	"Straw Mango Paradise": {
 		price: 200,
 		lastItem: false,
-		items: ["Straw Mango Paradise"],
+		items: ["StrawMangoParadise"],
 	},
    "Blueberry mini mocktail": {
 	  price: 200,
 	  lastItem: false,
-	  items: ["Blueberry mini mocktail"],
+	  items: ["Blueberryminimocktail"],
 	},
   	"Strawberry Orange Soda": {
 	 price: 150,
 	 lastItem: false,
-	 items: ["Strawberry Orange Soda"],
+	 items: ["StrawberryOrangeSoda"],
 	},
 	"Discounts": {
 		header: true,
 	},
  }
 const INDIVIDUAL_ITEMS = [
-	"Seafood Boil","SurfNTurf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Fried Oreos", "Banna Split", "Caramel Apple Pie", 
-	"Orange Julius", "Straw Mango Paradise", "Blueberry mini mocktail","Strawberry Orange Soda"
+	"Seafood Boil","SurfNTurf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","LoadedTatorTots", "Fried Oreos", "Banna Split", "CaramelApplePie", 
+	"Orange Julius", "StrawMangoParadise", "Blueberryminimocktail","StrawberryOrangeSoda"
 ];
 
 const buttons = {
