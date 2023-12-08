@@ -15,9 +15,7 @@ const Menu = {
 		header: true,
 	},
 	"Seafood Boil": {
-		fileRenameException: true,
 		price: 450,
-		noDiscount: false,
 		items: ["Seafood Boil"],
 	},
 	"Surf N Turf": {
@@ -62,20 +60,14 @@ const Menu = {
 },
 	"Fried Oreos": {
 	   price: 200,
-	   noDiscount: false,
-	   lastItem: false,
 	   items: ["Dried Oreos"],
    },
    "Banna Split": {
 	  price: 200,
-	  noDiscount: false,
-	  lastItem: false,
 	  items: ["Banna Split"],
   },
   "Caramel Apple Pie": {
 	 price: 200,
-	 noDiscount: false,
-	 lastItem: false,
 	 items: ["Caramel Apple Pie"],
 	},
 	// Drinks Items:
@@ -84,25 +76,21 @@ const Menu = {
 	},
 	"Orange Julius": {
 		price: 200,
-		noDiscount: false,
 		lastItem: false,
 		items: ["Orange Julius"],
 	},
 	"Straw Mango Paradise": {
 		price: 200,
-		noDiscount: false,
 		lastItem: false,
 		items: ["Straw Mango Paradise"],
 	},
    "Blueberry mini mocktail": {
 	  price: 200,
-	  noDiscount: false,
 	  lastItem: false,
 	  items: ["Blueberry mini mocktail"],
 	},
   	"Strawberry Orange Soda": {
 	 price: 150,
-	 noDiscount: false,
 	 lastItem: false,
 	 items: ["Strawberry Orange Soda"],
 	},
@@ -111,7 +99,7 @@ const Menu = {
 	},
  }
 const INDIVIDUAL_ITEMS = [
-	"Surf N Turf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Dried Oreos", "Banna Split", "Caramel Apple Pie", 
+	"Seafood Boil","Surf N Turf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Dried Oreos", "Banna Split", "Caramel Apple Pie", 
 	"Orange Julius", "Straw Mango Paradise", "Blueberry mini mocktail","Strawberry Orange Soda"
 ];
 
