@@ -56,7 +56,7 @@ const Menu = {
 		price: 250,
 		items: ["Lobester Roll"],
 	},
-   "Desserts:": {
+"Desserts:": {
 	header: true,
 },
 	"Purrfect Parfait": {
