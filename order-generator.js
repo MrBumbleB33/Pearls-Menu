@@ -14,31 +14,27 @@ const Menu = {
 	"Mains:": {
 		header: true,
 	},
-	"Meal Deal": {
+	"Seafood Boil": {
 		fileRenameException: true,
-		price: 800,
+		price: 450,
 		noDiscount: false,
-		items: ["Meal Deal"],
+		items: ["Seafood Boil"],
 	},
-	"Katsu Sando": {
+	"Surf N Turf": {
 		price: 400,
-		items: ["Katsu Sando"],
+		items: ["Surf N Turf"],
 	},
-	"Om-Nom-Rice": {
+	"Lobster M&C": {
 		price:400,
-		items: ["Om-Nom-Rice"],
+		items: ["Lobster M&C"],
 	},
-	"Hamburg Steak": {
+	"Salmon Chowder": {
 		price: 400,
-		items: ["Hamburg Steak"],
+		items: ["Salmon Chowder"],
 	},
-	"Doki-Doki-Pancakes": {
+	"Burbon Chicken": {
 		price: 400,
-		items: ["Doki-Doki-Pancakes"],
-	},
-	"Kira-Kira-Curry": {
-		price: 400,
-		items: ["Kira-Kira-Curry"],
+		items: ["Burbon Chicken"],
 	},
 	// Individual Items:
 	"Sides:": {
