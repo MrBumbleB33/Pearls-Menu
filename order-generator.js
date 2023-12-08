@@ -15,7 +15,9 @@ const Menu = {
 		header: true,
 	},
 	"Meal Deal": {
+		fileRenameException: true,
 		price: 900,
+		noDiscount: false,
 		items: ["Meal Deal"],
 	},
 	"Seafood Boil": {
