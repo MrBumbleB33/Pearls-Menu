@@ -56,26 +56,27 @@ const Menu = {
 		price: 250,
 		items: ["Lobester Roll"],
 	},
+	// Derssert Items:
 "Desserts:": {
 	header: true,
 },
-	"Purrfect Parfait": {
+	"Dried Oreos": {
 	   price: 200,
 	   noDiscount: false,
 	   lastItem: false,
-	   items: ["Purrfect Parfait"],
+	   items: ["Dried Oreos"],
    },
-   "Strawberry Shortcake": {
+   "Banna Split": {
 	  price: 200,
 	  noDiscount: false,
 	  lastItem: false,
-	  items: ["Strawberry Shortcake"],
+	  items: ["Banna Split"],
   },
-  "Mochi-Ice-Cream": {
+  "Caramel Apple Pie": {
 	 price: 200,
 	 noDiscount: false,
 	 lastItem: false,
-	 items: ["Mochi-Ice-Cream"],
+	 items: ["Caramel Apple Pie"],
 	},
 	// Drinks Items:
 "Drinks:": {
@@ -119,7 +120,7 @@ const Menu = {
 	 },
  }
 const INDIVIDUAL_ITEMS = [
-	"Surf N Turf", "Lobster M&C", "Salmon Chowder", "Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Purrfect Parfait", "Strawberry Shortcake", "Mochi-Ice-Cream", 
+	"Surf N Turf", "Lobster M&C", "Salmon Chowder", "Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","Loaded Tator Tots", "Dried Oreos", "Banna Split", "Caramel Apple Pie", 
 	"Hot Chocolate", "Motcha Coffee", "Soju","Blueberry-Booba-Tea", "Strawberry-Booba-Tea","Orange-Booba-Tea"
 ];
 
