@@ -106,7 +106,7 @@ const Menu = {
 	 lastItem: false,
 	 items: ["Strawberry Orange Soda"],
 	},
-	"": {
+	"Discounts": {
 		header: true,
 	},
  }
