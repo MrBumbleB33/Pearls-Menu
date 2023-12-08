@@ -60,7 +60,7 @@ const Menu = {
 },
 	"Fried Oreos": {
 	   price: 200,
-	   items: ["Dried Oreos"],
+	   items: ["Fried Oreos"],
    },
    "Banna Split": {
 	  price: 200,
