@@ -14,6 +14,10 @@ const Menu = {
 	"Mains:": {
 		header: true,
 	},
+	"Meal Deal": {
+		price: 900,
+		items: ["Meal Deal"],
+	},
 	"Seafood Boil": {
 		price: 450,
 		items: ["Seafood Boil"],
@@ -99,7 +103,7 @@ const Menu = {
 	},
  }
 const INDIVIDUAL_ITEMS = [
-	"Seafood Boil","SurfNTurf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","LoadedTatorTots", "Fried Oreos", "Banana Split", "CaramelApplePie", 
+	"Meal Deal","Seafood Boil","SurfNTurf", "Lobster M&C", "Salmon Chowder","Burbon Chicken","Cheddar Biscuits","Hush Puppies","Lobester Roll","LoadedTatorTots", "Fried Oreos", "Banana Split", "CaramelApplePie", 
 	"Orange Julius", "StrawMangoParadise", "Blueberryminimocktail","StrawberryOrangeSoda"
 ];
 
